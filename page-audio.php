@@ -1,6 +1,7 @@
 <?php
 /*
 Template Name: Audio Page
+For Wordpress: maintain PHP WP tags.
 */
  ?>
 <link type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/music/player.css" rel="stylesheet" />
